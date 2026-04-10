@@ -9,6 +9,11 @@
             "icon": "msx-red:play-circle",
             "label": "YouTube",
             "action": "link:https://www.youtube.com/tv"
+        },
+        {
+            "icon": "settings",
+            "type": "settings",
+            "label": "Einstellungen"
         }
     ]
 }
