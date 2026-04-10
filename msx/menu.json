@@ -1,0 +1,14 @@
+{
+    "headline": "Media Station X",
+    "menu": [
+        {
+            "type": "seperator",
+            "label": "Video"
+        },
+        {
+            "icon": "msx-red:play-circle",
+            "label": "YouTube",
+            "action": "link:https://www.youtube.com/tv"
+        }
+    ]
+}
